@@ -40,7 +40,7 @@ The Time-series 2~6 are provided by E. Keogh et al. in
   , [dataset](http://www.cs.ucr.edu/~eamonn/discords/)
 
 
-## Result
+## Result for ECG Dataset
 __1. Time-series prediction:__
 Predictions from the stacked RNN model
 

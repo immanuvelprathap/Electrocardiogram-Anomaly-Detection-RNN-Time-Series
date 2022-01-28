@@ -1,5 +1,5 @@
 # Electrocardiogram-Anomaly-Detection-RNN-Time-Series
-https://github.com/immanuvelprathap/Electrocardiogram-Anomaly-Detection-RNN-Time-Series/blob/master/result/ecg/fig.gif
+
 
 # Electrocardiogram-RNN-Time-series-Anomaly-Detection
 
@@ -48,7 +48,7 @@ __1. Time-series prediction:__
 Predictions from the stacked RNN model
 
 
-<!-- ![prediction2](./ecg/fig.gif) -->
+![prediction2](https://github.com/immanuvelprathap/Electrocardiogram-Anomaly-Detection-RNN-Time-Series/blob/master/result/ecg/fig.gif)
 
 __2. Anomaly detection:__
 

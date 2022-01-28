@@ -58,10 +58,10 @@ Anomaly scores from the Multivariate Gaussian Distribution model
 * Electrocardiograms (ECGs) (filename: chfdb_chf14_45590)
 
 
-<!-- ![scores3](./fig/scores_ecg1.png) -->
+![scores3](https://github.com/immanuvelprathap/Electrocardiogram-Anomaly-Detection-RNN-Time-Series/blob/master/result/ecg/chfdb_chf13_45590/fig_detection/fig_scores_channel0.png)
 
 
-<!-- ![scores4](./fig/scores_ecg2.png) -->
+![scores4](https://github.com/immanuvelprathap/Electrocardiogram-Anomaly-Detection-RNN-Time-Series/blob/master/result/ecg/chfdb_chf13_45590/fig_detection/fig_scores_channel1.png)
 
 ## Evaluation
 

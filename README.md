@@ -1,8 +1,5 @@
 # Electrocardiogram-Anomaly-Detection-RNN-Time-Series
 
-
-# Electrocardiogram-RNN-Time-series-Anomaly-Detection
-
 RNN based Time-series Anomaly detector model implemented in Pytorch.
 
 This is an implementation of RNN based time-series anomaly detector, which consists of two-stage strategy of time-series prediction and anomaly score calculation.

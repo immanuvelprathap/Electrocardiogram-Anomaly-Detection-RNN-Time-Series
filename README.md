@@ -73,8 +73,8 @@ __1. Precision, recall, and F1 score:__
 
 a. channel 0
 
-<!-- ![f1ecg1](./fig/fig_f_beta_channel0.png) -->
+![f1ecg1](https://github.com/immanuvelprathap/Electrocardiogram-Anomaly-Detection-RNN-Time-Series/blob/master/result/ecg/chfdb_chf13_45590/fig_detection/fig_f_beta_channel0.png)
 
 b. channel 1
 
-<!-- ![f1ecg2](./fig/fig_f_beta_channel1.png) -->
+![f1ecg2](https://github.com/immanuvelprathap/Electrocardiogram-Anomaly-Detection-RNN-Time-Series/blob/master/result/ecg/chfdb_chf13_45590/fig_detection/fig_f_beta_channel1.png)

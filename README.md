@@ -12,7 +12,7 @@ This is an implementation of RNN based time-series anomaly detector, which consi
 * Matplotlib
 * Scikit-learn
 
-## Dataset
+## Dataset you can implement on!
 __1. NYC taxi passenger count__
  * The New York City taxi passenger data stream, provided by the [New
 York City Transportation Authority](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml )

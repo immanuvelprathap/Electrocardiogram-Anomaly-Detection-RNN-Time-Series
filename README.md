@@ -84,8 +84,7 @@ b. channel 1
 
 <img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/220px-PyTorch_logo_black.svg.png" width=200>           
 
-<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width=200>                                                 <img target="_blank" src="https://miro.medium.com/max/800/1*bMyMOvHmXZAmuJxwYvsctg.jpeg" width=200>
-
+<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width=200>                                               
 
 
 

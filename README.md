@@ -13,6 +13,7 @@ This is an implementation of RNN based time-series anomaly detector, which consi
 * Scikit-learn
 
 ## Dataset you can implement on!
+
 __1. NYC taxi passenger count__
  * The New York City taxi passenger data stream, provided by the [New
 York City Transportation Authority](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml )
@@ -21,7 +22,8 @@ York City Transportation Authority](http://www.nyc.gov/html/tlc/html/about/trip_
 
 __2. Electrocardiograms (ECGs)__
  * The ECG dataset containing a single anomaly corresponding to a pre-ventricular contraction
-
+ ["ECG_Dataset"](https://archive.physionet.org/physiobank/)
+ 
 __3. 2D gesture (video surveilance)__
  * X Y coordinate of hand gesture in a video
 
@@ -75,3 +77,38 @@ a. channel 0
 b. channel 1
 
 ![f1ecg2](https://github.com/immanuvelprathap/Electrocardiogram-Anomaly-Detection-RNN-Time-Series/blob/master/result/ecg/chfdb_chf13_45590/fig_detection/fig_f_beta_channel1.png)
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/220px-PyTorch_logo_black.svg.png" width=200>           
+
+<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width=200>                                                 <img target="_blank" src="https://miro.medium.com/max/800/1*bMyMOvHmXZAmuJxwYvsctg.jpeg" width=200>
+
+
+
+
+## Team
+
+<img target="_blank" src="https://avatars.githubusercontent.com/u/68032323?v=4" width=200> 
+
+[Immanuvel Prathap's Website - Click Here!](https://immanuvelprathap.in/)
+
+## License
+
+Open Source Project
+
+## Credits
+
+## References for researcher
+* [Keogh, Eamonn et al. "HOT SAX: Efficiently Finding the Most Unusual Time Series Subsequence." In The Fifth IEEE International Conference on Data Mining. (2005)
+](http://ieeexplore.ieee.org/abstract/document/1565683/)
+
+* [Malhotra, Pankaj, et al. "Long short term memory networks for anomaly detection in time series." Proceedings. Presses universitaires de Louvain, 2015.](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
+
+
+* [Malhotra, Pankaj, et al. "LSTM-based encoder-decoder for multi-sensor anomaly detection." arXiv preprint arXiv:1607.00148 (2016).](https://arxiv.org/pdf/1607.00148.pdf)
+
+* [Park, Daehyung, Yuuna Hoshi, and Charles C. Kemp. "A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder." IEEE Robotics and Automation Letters 3.3 (2018): 1544-1551.](https://arxiv.org/pdf/1711.00614.pdf)
+
